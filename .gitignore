@@ -1,0 +1,4 @@
+elasticsearch-data/
+jupyter-notebooks/
+!jupyter-notebooks/komoot-elk-preprocessing.ipynb
+!jupyter-notebooks/data/komoot-sample-data.json

@@ -1,0 +1,197 @@
+{
+  "_embedded": {
+    "tours": [
+      {
+        "status": "public",
+        "type": "tour_recorded",
+        "date": "2017-05-30T17:44:39.000+02:00",
+        "name": "Die letzten Sonnenstrahlen vor dem Regen genießen",
+        "distance": 18743.235558300716,
+        "duration": 2923,
+        "sport": "touringbicycle",
+        "_links": {
+          "creator": {
+            "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+          },
+          "self": {
+            "href": "http://api.komoot.de/v007/tours/17342318?_embedded="
+          },
+          "coordinates": {
+            "href": "http://api.komoot.de/v007/tours/17342318/coordinates"
+          }
+        },
+        "id": 17342318,
+        "changed_at": "2017-05-30T18:06:11.000Z",
+        "kcal_active": 483,
+        "kcal_resting": 59,
+        "start_point": {
+          "lat": 48.797043,
+          "lng": 8.852355,
+          "alt": 445
+        },
+        "elevation_up": 272.1895269485014,
+        "elevation_down": 265.5014104934973,
+        "time_in_motion": 2793,
+        "map_image": {
+          "src": "https://photos.komoot.de/www/maps/17342318-81908703bab780d30890be7e0757528fb330cbb3eff5cf07e18a9418aa0576f1-big@2x.jpg/15c5a895e38?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "map_image_preview": {
+          "src": "https://photos.komoot.de/www/maps/17342318-81908703bab780d30890be7e0757528fb330cbb3eff5cf07e18a9418aa0576f1-small@2x.jpg/15c5a895e38?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "_embedded": {
+          "creator": {
+            "username": "320477127324",
+            "avatar": {
+              "src": "https://d2exd72xrrp1s7.cloudfront.net/www/1q/1qiaj0uh2xnjg15n940mlco45y1u4gkqkg10412819-full/15ad8eb84b0?width={width}&height={height}&crop={crop}",
+              "templated": true,
+              "type": "image/*"
+            },
+            "_links": {
+              "self": {
+                "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+              }
+            },
+            "display_name": "Fabian Müller"
+          }
+        }
+      },
+      {
+        "status": "public",
+        "type": "tour_recorded",
+        "date": "2017-05-26T12:31:37.000+02:00",
+        "name": "Am Lech entlang",
+        "distance": 59379.90480564316,
+        "duration": 16155,
+        "sport": "mtb",
+        "_links": {
+          "creator": {
+            "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+          },
+          "self": {
+            "href": "http://api.komoot.de/v007/tours/17140311?_embedded="
+          },
+          "coordinates": {
+            "href": "http://api.komoot.de/v007/tours/17140311/coordinates"
+          }
+        },
+        "id": 17140311,
+        "changed_at": "2017-05-26T19:02:26.000Z",
+        "kcal_active": 1166,
+        "kcal_resting": 325,
+        "start_point": {
+          "lat": 48.3165,
+          "lng": 10.891965,
+          "alt": 573
+        },
+        "elevation_up": 413.1779294445811,
+        "elevation_down": 423.2296045531499,
+        "time_in_motion": 12277,
+        "map_image": {
+          "src": "https://photos.komoot.de/www/maps/17140311-69e6542adb67c2d09f8b759be1694152c7f5303f2ddc897c198739849740684a-big@2x.jpg/15c46236dd0?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "map_image_preview": {
+          "src": "https://photos.komoot.de/www/maps/17140311-69e6542adb67c2d09f8b759be1694152c7f5303f2ddc897c198739849740684a-small@2x.jpg/15c46236dd0?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "_embedded": {
+          "creator": {
+            "username": "320477127324",
+            "avatar": {
+              "src": "https://d2exd72xrrp1s7.cloudfront.net/www/1q/1qiaj0uh2xnjg15n940mlco45y1u4gkqkg10412819-full/15ad8eb84b0?width={width}&height={height}&crop={crop}",
+              "templated": true,
+              "type": "image/*"
+            },
+            "_links": {
+              "self": {
+                "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+              }
+            },
+            "display_name": "Fabian Müller"
+          }
+        }
+      },
+      {
+        "status": "public",
+        "type": "tour_recorded",
+        "date": "2017-05-25T11:53:12.000+02:00",
+        "name": "Sunshine Augsburg",
+        "distance": 89096.73522348405,
+        "duration": 23138,
+        "sport": "touringbicycle",
+        "_links": {
+          "creator": {
+            "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+          },
+          "self": {
+            "href": "http://api.komoot.de/v007/tours/17069942?_embedded="
+          },
+          "coordinates": {
+            "href": "http://api.komoot.de/v007/tours/17069942/coordinates"
+          }
+        },
+        "id": 17069942,
+        "changed_at": "2017-05-26T20:10:03.000Z",
+        "kcal_active": 1474,
+        "kcal_resting": 466,
+        "start_point": {
+          "lat": 48.31936,
+          "lng": 10.8807535,
+          "alt": 553
+        },
+        "elevation_up": 613.0723608954802,
+        "elevation_down": 623.1875533040791,
+        "time_in_motion": 15843,
+        "map_image": {
+          "src": "https://photos.komoot.de/www/maps/17069942-dd770014e45b1422549edcea0c694aac1de465d2ef48fcbde2bfb58221655c06-big@2x.jpg/15c46615578?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "map_image_preview": {
+          "src": "https://photos.komoot.de/www/maps/17069942-dd770014e45b1422549edcea0c694aac1de465d2ef48fcbde2bfb58221655c06-small@2x.jpg/15c46615578?width={width}&height={height}&crop={crop}",
+          "templated": true,
+          "type": "image/*",
+          "attribution": "Map data © OpenStreetMap contributors"
+        },
+        "_embedded": {
+          "creator": {
+            "username": "320477127324",
+            "avatar": {
+              "src": "https://d2exd72xrrp1s7.cloudfront.net/www/1q/1qiaj0uh2xnjg15n940mlco45y1u4gkqkg10412819-full/15ad8eb84b0?width={width}&height={height}&crop={crop}",
+              "templated": true,
+              "type": "image/*"
+            },
+            "_links": {
+              "self": {
+                "href": "http://api.komoot.de/v007/users/320477127324/profile_embedded"
+              }
+            },
+            "display_name": "Fabian Müller"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://api.komoot.de/v007/users/320477127324/tours/"
+    }
+  },
+  "page": {
+    "size": 100,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}
