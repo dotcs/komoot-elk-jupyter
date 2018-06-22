@@ -6,9 +6,11 @@ RUN apt-get update && apt-get install -y \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
 
+# Pandas >=0.21 is incompatible with Python 3.4
+# see https://github.com/pandas-dev/pandas/issues/20723
 RUN pip --no-cache-dir install \
-    ipykernel scipy jupyter matplotlib pandas elasticsearch && \
-    python -m ipykernel.kernelspec
+  ipykernel scipy jupyter matplotlib 'pandas<0.21' elasticsearch && \
+  python -m ipykernel.kernelspec
 
 COPY ./config/jupyter_notebook_config.py /root/.jupyter/
 
